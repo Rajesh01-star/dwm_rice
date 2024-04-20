@@ -1,0 +1,24 @@
+2024/04/18-14:26:13.307 3db Creating DB /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb since it was missing.
+2024/04/18-14:26:13.313 3db Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/18-14:26:18.485 3db Level-0 table #5: started
+2024/04/18-14:26:18.531 3db Level-0 table #5: 1267166 bytes OK
+2024/04/18-14:26:18.534 3db Delete type=0 #3
+2024/04/18-14:26:18.664 3db Level-0 table #7: started
+2024/04/18-14:26:18.692 3db Level-0 table #7: 1428949 bytes OK
+2024/04/18-14:26:18.694 3db Delete type=0 #4
+2024/04/18-14:26:18.808 3db Level-0 table #9: started
+2024/04/18-14:26:18.831 3db Level-0 table #9: 753472 bytes OK
+2024/04/18-14:26:18.833 3db Delete type=0 #6
+2024/04/18-14:26:18.837 3db Compacting 1@0 + 1@1 files
+2024/04/18-14:26:18.883 3db Generated table #10@0: 16072 keys, 2146960 bytes
+2024/04/18-14:26:18.883 3db Compacted 1@0 + 1@1 files => 2146960 bytes
+2024/04/18-14:26:18.884 3db compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/18-14:26:18.885 3db Delete type=2 #7
+2024/04/18-14:26:18.885 3db Delete type=2 #9
+2024/04/18-14:26:18.891 3db Compacting 1@1 + 1@2 files
+2024/04/18-14:26:18.938 3db Generated table #11@1: 15842 keys, 2148663 bytes
+2024/04/18-14:26:18.974 3db Generated table #12@1: 8060 keys, 1236016 bytes
+2024/04/18-14:26:18.975 3db Compacted 1@1 + 1@2 files => 3384679 bytes
+2024/04/18-14:26:18.976 3db compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/04/18-14:26:18.976 3db Delete type=2 #10
+2024/04/18-14:26:18.976 3db Delete type=2 #5

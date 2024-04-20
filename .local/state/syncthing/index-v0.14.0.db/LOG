@@ -1,0 +1,31 @@
+=============== Apr 18, 2024 (IST) ===============
+13:33:36.123273 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:33:36.125871 db@open opening
+13:33:36.126091 version@stat F·[] S·0B[] Sc·[]
+13:33:36.127019 db@janitor F·2 G·0
+13:33:36.127029 db@open done T·1.142493ms
+13:33:37.487799 memdb@flush N·49 S·1KiB
+13:33:37.501731 memdb@flush created L0@3 N·49 S·611B "\ndb..ion,v49":"\nla..ime,v19"
+13:33:37.501774 version@stat F·[1] S·611B[611B] Sc·[0.25]
+13:33:37.502752 memdb@flush committed F·1 T·14.916909ms
+13:33:37.502839 journal@remove removed @1
+13:33:37.502851 table@compaction range L-1 "":""
+13:33:37.502952 table@compaction L0·1 -> L1·0 S·611B Q·49
+13:33:37.504163 table@build created L1@4 N·4 S·207B "\ndb..ion,v49":"\nla..ime,v19"
+13:33:37.504221 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+13:33:37.505085 table@compaction committed F~ S-404B Ke·0 D·45 T·2.12555ms
+13:33:37.505198 table@remove removed @3
+13:34:14.529245 db@close closing
+13:34:14.529368 db@close done T·122.099µs
+=============== Apr 18, 2024 (IST) ===============
+13:35:47.819937 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+13:35:47.820048 version@stat F·[0 1] S·207B[0B 207B] Sc·[0.00 0.00]
+13:35:47.820061 db@open opening
+13:35:47.820086 journal@recovery F·1
+13:35:47.820219 journal@recovery recovering @2
+13:35:47.821409 memdb@flush created L0@5 N·8 S·316B "\x04de..can,v57":"\npr..ion,v50"
+13:35:47.821500 version@stat F·[1 1] S·523B[316B 207B] Sc·[0.25 0.00]
+13:35:47.825068 db@janitor F·4 G·0
+13:35:47.825083 db@open done T·5.017201ms
+13:42:23.657182 db@close closing
+13:42:23.657419 db@close done T·235.712µs

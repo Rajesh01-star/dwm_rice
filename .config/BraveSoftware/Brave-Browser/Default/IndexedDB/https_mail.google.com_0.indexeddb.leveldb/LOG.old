@@ -1,0 +1,5 @@
+2024/04/13-15:10:29.838 493f Creating DB /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb since it was missing.
+2024/04/13-15:10:29.845 493f Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/13-15:23:57.197 4940 Level-0 table #5: started
+2024/04/13-15:23:57.212 4940 Level-0 table #5: 2761352 bytes OK
+2024/04/13-15:23:57.214 4940 Delete type=0 #3

@@ -1,0 +1,59 @@
+{
+   "checksum": "b1ffea225ffddf66d37eba1ac487853d",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13357900011759533",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13357900011759535",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13351887569145637",
+            "date_last_used": "0",
+            "guid": "fb4afab9-581b-418b-9cb4-0da0c3143be6",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "GitHub - jixserver/free-for-dev: A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+            "type": "url",
+            "url": "https://github.com/jixserver/free-for-dev"
+         }, {
+            "date_added": "13357767171532152",
+            "date_last_used": "0",
+            "guid": "a7216faa-7155-421a-a5b2-d8f3a7366c00",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Dropbox - React Quick Study Guide.docx - Simplify your life",
+            "type": "url",
+            "url": "https://www.dropbox.com/scl/fi/hd5k3018c1aospet7imbk/React-Quick-Study-Guide.docx?rlkey=x5fqrcvk18ru4qud915m3u7ul&dl=0"
+         } ],
+         "date_added": "13357900011759540",
+         "date_last_used": "0",
+         "date_modified": "13357767171532152",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgrEmLyE3mMAAAAAEgAaWDFiZEV5ck1lSFNuR2FzMkVVY3UxQS9ESlp6bGN0TU0zR0NLbWUyUUlhSjA2RWdpYW05UEdTRFp5elM3WlFJUnZqUkErZlJuNDZmd3lRekhSQXBsdmhnPT0qGGlZYWF5NURPTjk4REdWRTVvTTI2VEE9PUgDEoMBCAESfwoceXhKLzZmdmtlY3I3a3A1RVF6QjR0V0xwZGJFPRIkZmQ5MDIzMzQtNTQ5Ni00ZjNiLWIzNjMtOGI1MmNjZTgwZDNhGAAgACgAMAE489Kdgu8xQPPSnYLvMUocYVJDV0xnaEY5YjVJbnFLSUR2dUovanZRa0ZjPVoAZQAAAAASpwEIBhKiAQocWnM2dU5SRW94WHRjSXJwQnhJekhGWTJmUS9vPRIkNDRkNTk1NWItZGI2ZC00ZTc4LTkwY2YtMTI5N2RlYTlkOTI3GAAgACgAMKKMnoLvMTjiip6C7zFA4oqegu8xShxNVkpCOFY4ZzJLTjhWd1FIWjNZWWl4SGpPQU09Wh4iHFhtcVJWTThzVUNUbU1xOVdnOEVGcktQTUwvbz1lsi3gXRKnAQgFEqIBChxVVE8zaXFpN3BDcFllQzJ2ZTZJdjhiaXZMRDA9EiQzNjk1ZDA1MS1iZjBhLTRkYzUtOTg1Yi0zYTEyMGNmN2JmYTgYACAAKAAwkYyegu8xOOGKnoLvMUDhip6C7zFKHHphbFREbXlJY3VhbmZKeUhYeVhmT3BWT3FQcz1aHiIcQzY3VWdvMWxycElrMmM3NDhCTHRtNDBSWm1vPWXKsb7tEoMBCAMSfwocbmpnRHU4OGVDcnZYcDg2cEQ3ZkhHY3FGcDg4PRIkMDBkM2I4NWItZDZiYi00OTgyLTg4OWQtMjc2N2QyMThjNmY3GAAgACgAMAE489Kdgu8xQPPSnYLvMUoceXpOQjAxY241NEE3Y1JVMHVUKy9QZ21UdFVvPVoAZQAAAAASgwEIAhJ/ChxZY1NUb252RVNQd3FDczRMMmNyVmh2NjhMOTg9EiQ2ODEwMzM3My04MjNiLTQzN2YtODI1YS0yMDk5NmZiY2U0ODIYACAAKAAwATjz0p2C7zFA89Kdgu8xShxvUFZraHdCUmJWNjVLQ1dSMitJT05IV29PdTg9WgBlAAAAADABOAA=",
+   "version": 1
+}

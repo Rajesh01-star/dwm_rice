@@ -1,0 +1,8 @@
+2024/04/20-14:51:36.176 4 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/04/20-14:51:36.178 4 Recovering log #206
+2024/04/20-14:51:36.178 4 Level-0 table #210: started
+2024/04/20-14:51:36.183 4 Level-0 table #210: 13249 bytes OK
+2024/04/20-14:51:36.185 4 Delete type=0 #206
+2024/04/20-14:52:41.891 4 Level-0 table #213: started
+2024/04/20-14:52:41.908 4 Level-0 table #213: 22270 bytes OK
+2024/04/20-14:52:41.911 4 Delete type=0 #211

@@ -1,0 +1,4 @@
+[[picom-git]]
+url = "https://github.com/yshui/picom.git"
+branch = "next"
+commit = "2efd2c84528a4a4af69caafbafd41d4684a325b9"

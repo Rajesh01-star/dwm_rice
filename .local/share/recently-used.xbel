@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/atharv/Downloads/fairy.jpg" added="2024-04-13T10:09:38.652121Z" modified="2024-04-13T10:09:38.652128Z" visited="2024-04-13T10:09:38.652122Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-13T10:09:38.652124Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/pix/wall/lightening.png" added="2024-04-13T18:42:26.673647Z" modified="2024-04-13T18:42:26.673655Z" visited="2024-04-13T18:42:26.673648Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-13T18:42:26.673651Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula.tar.xz" added="2024-04-13T19:44:40.526673Z" modified="2024-04-13T19:45:43.177469Z" visited="2024-04-13T19:44:40.526674Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-13T19:44:40.526678Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:45:43.177467Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl" added="2024-04-13T19:44:59.874276Z" modified="2024-04-19T07:15:00.850076Z" visited="2024-04-13T19:44:59.874278Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-19T07:15:00.850073Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula" added="2024-04-13T19:47:08.754891Z" modified="2024-04-13T19:47:08.754898Z" visited="2024-04-13T19:47:08.754892Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:47:08.754894Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula-alt-style" added="2024-04-13T19:47:15.330990Z" modified="2024-04-13T19:47:15.330996Z" visited="2024-04-13T19:47:15.330991Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:47:15.330992Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula-alt-style/Ant-Nebula" added="2024-04-13T19:47:16.989055Z" modified="2024-04-13T19:47:16.989062Z" visited="2024-04-13T19:47:16.989056Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:47:16.989058Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula-slim" added="2024-04-13T19:47:19.675488Z" modified="2024-04-13T19:47:19.675496Z" visited="2024-04-13T19:47:19.675489Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:47:19.675492Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Ant-Nebula-slim/Ant-Nebula" added="2024-04-13T19:47:20.923314Z" modified="2024-04-13T19:47:20.923321Z" visited="2024-04-13T19:47:20.923316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-13T19:47:20.923317Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/pix/wall/cyber.jpg" added="2024-04-13T19:49:35.292822Z" modified="2024-04-13T19:49:35.292830Z" visited="2024-04-13T19:49:35.292823Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-13T19:49:35.292826Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/DT20235103919_Application.pdf" added="2024-04-17T11:15:05.607643Z" modified="2024-04-17T11:15:05.607653Z" visited="2024-04-17T11:15:05.607644Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-17T11:15:05.607648Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/My%20video%20-%20Date.mp4" added="2024-04-18T08:34:20.737518Z" modified="2024-04-18T08:34:20.737544Z" visited="2024-04-18T08:34:20.737519Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="video/mp4"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-18T08:34:20.737539Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/4_web_2004296.pdf" added="2024-04-18T11:07:58.888329Z" modified="2024-04-18T11:08:32.012550Z" visited="2024-04-18T11:07:58.888330Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-18T11:08:32.012546Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/3_web_2004296.pdf" added="2024-04-18T11:08:01.883352Z" modified="2024-04-18T11:08:23.368961Z" visited="2024-04-18T11:08:01.883353Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-18T11:08:23.368958Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/1_web_2004296.pdf" added="2024-04-18T11:08:06.410794Z" modified="2024-04-18T11:08:13.552778Z" visited="2024-04-18T11:08:06.410795Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-18T11:08:13.552774Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/logins.csv" added="2024-04-19T06:59:22.658975Z" modified="2024-04-19T07:00:14.225446Z" visited="2024-04-19T06:59:22.658977Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T07:00:14.225444Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/Sweet-Dark-v40.tar.xz" added="2024-04-19T07:14:41.767772Z" modified="2024-04-19T07:15:43.753174Z" visited="2024-04-19T07:14:41.767773Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T07:14:41.767778Z" count="1"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2024-04-19T07:15:43.753171Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/candy-icons.tar.xz" added="2024-04-19T07:20:33.598256Z" modified="2024-04-19T07:20:33.598264Z" visited="2024-04-19T07:20:33.598258Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-xz-compressed-tar"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T07:20:33.598260Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/1_daa_2004296.pdf" added="2024-04-19T10:56:31.914162Z" modified="2024-04-19T10:56:54.866239Z" visited="2024-04-19T10:56:31.914163Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T10:56:54.866236Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/4_daa_2004296.pdf" added="2024-04-19T10:56:35.635689Z" modified="2024-04-19T10:57:19.048274Z" visited="2024-04-19T10:56:35.635690Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T10:57:19.048272Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/atharv/dl/2_daa_2004296.pdf" added="2024-04-19T10:56:38.286460Z" modified="2024-04-19T10:57:03.256740Z" visited="2024-04-19T10:56:38.286460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2024-04-19T10:57:03.256730Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

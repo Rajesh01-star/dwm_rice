@@ -1,0 +1,9 @@
+2024/04/20-14:51:41.912 3b143 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/20-14:51:41.913 3b143 Recovering log #196
+2024/04/20-14:51:41.915 3b143 Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000196.log 
+2024/04/20-14:51:42.467 3b144 Compacting 1@1 + 1@2 files
+2024/04/20-14:51:42.477 3b144 Generated table #199@1: 560 keys, 47768 bytes
+2024/04/20-14:51:42.477 3b144 Compacted 1@1 + 1@2 files => 47768 bytes
+2024/04/20-14:51:42.479 3b144 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/04/20-14:51:42.479 3b144 Delete type=2 #194
+2024/04/20-14:51:42.479 3b144 Delete type=2 #197

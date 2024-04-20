@@ -1,0 +1,6 @@
+2024/04/20-14:51:36.165 3b144 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/04/20-14:51:36.166 3b144 Recovering log #47
+2024/04/20-14:51:36.169 3b144 Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000047.log 
+2024/04/20-14:51:38.725 3b161 Level-0 table #52: started
+2024/04/20-14:51:38.740 3b161 Level-0 table #52: 74093 bytes OK
+2024/04/20-14:51:38.747 3b161 Delete type=0 #47

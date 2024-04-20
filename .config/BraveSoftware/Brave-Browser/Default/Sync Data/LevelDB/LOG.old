@@ -1,0 +1,15 @@
+2024/04/20-14:37:19.436 382a4 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/04/20-14:37:19.437 382a4 Recovering log #44
+2024/04/20-14:37:19.442 382a4 Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000044.log 
+2024/04/20-14:37:46.872 382a7 Level-0 table #48: started
+2024/04/20-14:37:46.878 382a7 Level-0 table #48: 71669 bytes OK
+2024/04/20-14:37:46.880 382a7 Delete type=0 #44
+2024/04/20-14:37:46.880 382a7 Compacting 4@0 + 1@1 files
+2024/04/20-14:37:46.886 382a7 Generated table #49@0: 65 keys, 10642 bytes
+2024/04/20-14:37:46.886 382a7 Compacted 4@0 + 1@1 files => 10642 bytes
+2024/04/20-14:37:46.887 382a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/20-14:37:46.888 382a7 Delete type=2 #38
+2024/04/20-14:37:46.888 382a7 Delete type=2 #41
+2024/04/20-14:37:46.888 382a7 Delete type=2 #45
+2024/04/20-14:37:46.888 382a7 Delete type=2 #48
+2024/04/20-14:37:46.888 382a7 Delete type=2 #43

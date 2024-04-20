@@ -1,0 +1,15 @@
+2024/04/20-14:37:20.523 4 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2024/04/20-14:37:20.523 4 Recovering log #29
+2024/04/20-14:37:20.523 4 Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000029.log 
+2024/04/20-14:38:28.135 6 Level-0 table #33: started
+2024/04/20-14:38:28.143 6 Level-0 table #33: 21588 bytes OK
+2024/04/20-14:38:28.146 6 Delete type=0 #29
+2024/04/20-14:38:28.147 6 Compacting 4@0 + 1@1 files
+2024/04/20-14:38:28.152 6 Generated table #34@0: 1123 keys, 28026 bytes
+2024/04/20-14:38:28.152 6 Compacted 4@0 + 1@1 files => 28026 bytes
+2024/04/20-14:38:28.153 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/04/20-14:38:28.154 6 Delete type=2 #21
+2024/04/20-14:38:28.154 6 Delete type=2 #30
+2024/04/20-14:38:28.154 6 Delete type=2 #24
+2024/04/20-14:38:28.154 6 Delete type=2 #27
+2024/04/20-14:38:28.154 6 Delete type=2 #33

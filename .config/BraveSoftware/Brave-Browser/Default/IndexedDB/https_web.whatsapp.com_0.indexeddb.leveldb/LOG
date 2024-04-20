@@ -1,0 +1,82 @@
+2024/04/19-16:25:58.718 a33d Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/19-16:25:58.718 a33d Recovering log #207
+2024/04/19-16:25:58.727 a33d Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000207.log 
+2024/04/19-16:25:59.719 a341 Level-0 table #216: started
+2024/04/19-16:25:59.725 a341 Level-0 table #216: 277920 bytes OK
+2024/04/19-16:25:59.727 a341 Delete type=0 #207
+2024/04/19-16:25:59.727 a33d Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/04/19-16:26:00.834 a33e Compacting 1@1 + 8@2 files
+2024/04/19-16:26:00.901 a33e Generated table #217@1: 54035 keys, 2209710 bytes
+2024/04/19-16:26:00.956 a33e Generated table #218@1: 17383 keys, 2176725 bytes
+2024/04/19-16:26:00.997 a33e Generated table #219@1: 10433 keys, 2180236 bytes
+2024/04/19-16:26:01.046 a33e Generated table #220@1: 27830 keys, 2222751 bytes
+2024/04/19-16:26:01.110 a33e Generated table #221@1: 84741 keys, 2230161 bytes
+2024/04/19-16:26:01.150 a33e Generated table #222@1: 33157 keys, 749370 bytes
+2024/04/19-16:26:01.150 a33e Compacted 1@1 + 8@2 files => 11768953 bytes
+2024/04/19-16:26:01.154 a33e compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/19-16:26:01.155 a33e Delete type=2 #213
+2024/04/19-16:26:01.155 a33e Delete type=2 #209
+2024/04/19-16:26:01.155 a33e Delete type=2 #206
+2024/04/19-16:26:01.155 a33e Delete type=2 #199
+2024/04/19-16:26:01.155 a33e Delete type=2 #212
+2024/04/19-16:26:01.155 a33e Delete type=2 #210
+2024/04/19-16:26:01.155 a33e Delete type=2 #198
+2024/04/19-16:26:01.156 a33e Delete type=2 #211
+2024/04/19-16:26:01.156 a33e Delete type=2 #216
+2024/04/19-16:26:07.376 a33e Level-0 table #224: started
+2024/04/19-16:26:07.391 a33e Level-0 table #224: 1165152 bytes OK
+2024/04/19-16:26:07.392 a33e Delete type=0 #215
+2024/04/19-16:26:07.476 a341 Compacting 1@1 + 6@2 files
+2024/04/19-16:26:07.547 a341 Generated table #225@1: 51428 keys, 2206567 bytes
+2024/04/19-16:26:07.602 a341 Generated table #226@1: 22373 keys, 2182896 bytes
+2024/04/19-16:26:07.650 a341 Generated table #227@1: 8926 keys, 2172554 bytes
+2024/04/19-16:26:07.722 a341 Generated table #228@1: 29017 keys, 2229987 bytes
+2024/04/19-16:26:07.784 a341 Generated table #229@1: 78094 keys, 2221473 bytes
+2024/04/19-16:26:07.824 a341 Generated table #230@1: 40692 keys, 920529 bytes
+2024/04/19-16:26:07.824 a341 Compacted 1@1 + 6@2 files => 11934006 bytes
+2024/04/19-16:26:07.826 a341 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/19-16:26:10.919 a33e Level-0 table #232: started
+2024/04/19-16:26:10.944 a33e Level-0 table #232: 992376 bytes OK
+2024/04/19-16:26:10.946 a33e Delete type=2 #224
+2024/04/19-16:26:10.946 a33e Delete type=2 #220
+2024/04/19-16:26:10.946 a33e Delete type=2 #217
+2024/04/19-16:26:10.946 a33e Delete type=2 #219
+2024/04/19-16:26:10.946 a33e Delete type=2 #221
+2024/04/19-16:26:10.947 a33e Delete type=0 #223
+2024/04/19-16:26:10.947 a33e Delete type=2 #222
+2024/04/19-16:26:10.947 a33e Delete type=2 #218
+2024/04/19-16:26:10.953 a33e Compacting 1@1 + 6@2 files
+2024/04/19-16:26:10.993 a33e Generated table #233@1: 52254 keys, 2206306 bytes
+2024/04/19-16:26:11.012 a33e Generated table #234@1: 22212 keys, 2182338 bytes
+2024/04/19-16:26:11.029 a33e Generated table #235@1: 9021 keys, 2173551 bytes
+2024/04/19-16:26:11.060 a33e Generated table #236@1: 29005 keys, 2231727 bytes
+2024/04/19-16:26:11.094 a33e Generated table #237@1: 77215 keys, 2220309 bytes
+2024/04/19-16:26:11.112 a33e Generated table #238@1: 45193 keys, 1024599 bytes
+2024/04/19-16:26:11.112 a33e Compacted 1@1 + 6@2 files => 12038830 bytes
+2024/04/19-16:26:11.113 a33e compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/19-16:26:11.113 a33e Delete type=2 #232
+2024/04/19-16:26:11.113 a33e Delete type=2 #230
+2024/04/19-16:26:11.113 a33e Delete type=2 #225
+2024/04/19-16:26:11.113 a33e Delete type=2 #227
+2024/04/19-16:26:11.113 a33e Delete type=2 #229
+2024/04/19-16:26:11.113 a33e Delete type=2 #228
+2024/04/19-16:26:11.113 a33e Delete type=2 #226
+2024/04/19-16:27:30.081 a33e Level-0 table #240: started
+2024/04/19-16:27:30.112 a33e Level-0 table #240: 1021411 bytes OK
+2024/04/19-16:27:30.114 a33e Delete type=0 #231
+2024/04/19-16:27:30.117 a33e Compacting 1@1 + 6@2 files
+2024/04/19-16:27:30.207 a33e Generated table #241@1: 52744 keys, 2206761 bytes
+2024/04/19-16:27:30.239 a33e Generated table #242@1: 25716 keys, 2187484 bytes
+2024/04/19-16:27:30.255 a33e Generated table #243@1: 5869 keys, 2166605 bytes
+2024/04/19-16:27:30.293 a33e Generated table #244@1: 31515 keys, 2241412 bytes
+2024/04/19-16:27:30.325 a33e Generated table #245@1: 68303 keys, 2209290 bytes
+2024/04/19-16:27:30.356 a33e Generated table #246@1: 56228 keys, 1276366 bytes
+2024/04/19-16:27:30.356 a33e Compacted 1@1 + 6@2 files => 12287918 bytes
+2024/04/19-16:27:30.358 a33e compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/04/19-16:27:30.359 a33e Delete type=2 #238
+2024/04/19-16:27:30.359 a33e Delete type=2 #236
+2024/04/19-16:27:30.359 a33e Delete type=2 #240
+2024/04/19-16:27:30.359 a33e Delete type=2 #233
+2024/04/19-16:27:30.359 a33e Delete type=2 #234
+2024/04/19-16:27:30.359 a33e Delete type=2 #235
+2024/04/19-16:27:30.359 a33e Delete type=2 #237

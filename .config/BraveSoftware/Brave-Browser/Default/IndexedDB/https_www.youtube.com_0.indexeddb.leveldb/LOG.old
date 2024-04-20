@@ -1,0 +1,6 @@
+2024/04/20-14:37:35.773 382b0 Reusing MANIFEST /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/04/20-14:37:35.774 382b0 Recovering log #192
+2024/04/20-14:37:35.779 382b0 Reusing old log /home/atharv/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000192.log 
+2024/04/20-14:45:58.231 382a4 Level-0 table #197: started
+2024/04/20-14:45:58.248 382a4 Level-0 table #197: 1204063 bytes OK
+2024/04/20-14:45:58.251 382a4 Delete type=0 #192
