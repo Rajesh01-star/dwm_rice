@@ -1,9 +1,9 @@
-##Arch Linux Rice
+Arch Linux Rice
 
-###Overview
+Overview
 Welcome to my Arch Linux rice repository! This repository contains the configuration files, scripts, and resources for customizing and personalizing your Arch Linux setup. Whether you're a seasoned Arch user looking for new tweaks or a newcomer seeking inspiration, this repository has something for everyone.
 
-###Features
+**Features**
 Dotfiles: Configuration files for various applications and utilities, including:
 dwm: Dynamic Window Manager configuration for a minimalist and efficient desktop environment.
 st: Simple Terminal configuration with custom colors, fonts, and key bindings.
